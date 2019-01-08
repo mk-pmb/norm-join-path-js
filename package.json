@@ -1,0 +1,27 @@
+{ "name": "norm-join-path",
+  "version": "1.0.0",
+  "description": "Join and normalize path segments. Accepts arrays.",
+  "keywords": [ "join", "path" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/norm-join-path-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/norm-join-path-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/norm-join-path-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "njp.js",
+  "scripts": { "test": "nodejs test.usage.js" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
